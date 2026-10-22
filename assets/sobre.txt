@@ -1,0 +1,15 @@
+Snake Trojan Lab
+================
+
+Jogo da cobrinha - versao educacional.
+
+Esta pasta 'assets' representa os recursos de um jogo comum (textos, imagens,
+sons, etc.). Em um projeto real, haveria muitos arquivos aqui. Eles sao
+inofensivos e nao tem relacao com a demonstracao de ciberseguranca.
+
+Controles:
+  - Setas do teclado: mover a cobra
+  - Espaco: reiniciar apos o fim de jogo
+
+Objetivo: comer o alimento vermelho, crescer e fazer a maior pontuacao sem
+bater nas paredes ou no proprio corpo.
